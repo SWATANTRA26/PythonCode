@@ -6,3 +6,4 @@ console.log(name1, newName)
 newName = 'swatantra'
 console.log(name1,newName)
 
+/***************************************************************/
