@@ -13,5 +13,5 @@ let isLogin = false         // boolean DT
                             // undefined 
                             // Symbol : To find unique 
 console.log(typeof age)
-console.log(typeof null)
+console.log(typeof null)       
 console.log(typeof undefined)
