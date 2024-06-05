@@ -20,3 +20,5 @@ const str2 = new String("Hello") //
 console.log(str1[2],str2[2])
 console.log(str1.length,str2.length)
 console.log(str1.toUpperCase,str2.toUpperCase)
+console.log(str1.charAt(3))
+console.log(str1.indexOf('l'))
